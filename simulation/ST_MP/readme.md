@@ -16,8 +16,8 @@ The mesh is created using the in-house `umg2` software. More information and inp
 ![A1_Mesh](./figures/MeshConv.png) 
 
 ### Run
-This simulation was only performed and checked functional in the *feature_turbomachinery* branch of *SU2*.
-As discussed in much more detail in the Bitbucket *SU2* tutorial series, the test case can be run in series using
+This simulation was only performed and checked functional in the `feature_turbomachinery` branch of `SU2`.
+As discussed in much more detail in the Bitbucket `SU2` tutorial series, the test case can be run in series using
 
 ``SU2_CFD -f a1_air_steady.cfg``
 
